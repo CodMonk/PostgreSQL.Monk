@@ -21,7 +21,7 @@ goto comment
 :comment
 
 
-REM Set following backup parameters to take backup
+REM "Set following backup parameters to take backup"
 SET PGPASSWORD=monk_5578
 SET db_name=monk_db
 SET file_format=c
